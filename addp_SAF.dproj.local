@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.497,C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\Androidapi.bizim.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\addp_SAF.dproj=C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\XXXX_SAF.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.594,C:\1\Progdil\Delphi\Projeler\Unit1.fmx=C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.842,C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\SAFAndroidDosyaDepolamaPaylasma2.dproj=C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\ADDP_SAF.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\AndroidDosyaDepolamaPaylasma2SAF.dproj=C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\SAFAndroidDosyaDepolamaPaylasma2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\Androidapi.bizim.pas=C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.594,C:\1\Progdil\Delphi\Projeler\Unit1.pas=C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\XXXX_SAF.dproj=C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\ADDP_SAF.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,C:\1\Progdil\Delphi\Projeler\Project1.dproj=C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\AndroidDosyaDepolamaPaylasma2SAF.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,=C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\delphican.pdf</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.386,=C:\1\Progdil\Delphi\Projeler\AndroidDosyaDepolamaPaylasma2SAF\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,=C:\1\Progdil\Delphi\Projeler\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="2a9d17d9873f7ece" Android="2a9d17d9873f7ece"/>
+		<Pgunlerdestek iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
