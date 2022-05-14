@@ -574,7 +574,7 @@ var
 begin
   if not FileExists(File) then
   begin
-    Teblig(File + ' not found!');
+    ShowMessage(File + ' not found!');
     exit;
   end;
   try
@@ -653,6 +653,6 @@ begin
     on E: Exception do
       Application.ShowException(E);
   end;
-  Teblig('File copied from External to Internal : ' + File_Name(UriCan));
+  ShowMessage('File copied from External to Internal : ' + File_Name(UriCan));
 end;
 ```
