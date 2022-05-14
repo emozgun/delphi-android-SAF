@@ -358,7 +358,7 @@ TJDocumentsContract.JavaClass.deleteDocument (TAndroidHelper.contentResolver, Ur
 ```
 
 
-## Current Delphi - Android File Storage Knowledge
+## Current Delphi - Android File Storage Details
 
 [Standard RTL Path Functions across the Supported Target Platforms: Internal Storage, External Private internal S, Shared External Storage](https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Standard_RTL_Path_Functions_across_the_Supported_Target_Platforms)
     
@@ -394,7 +394,7 @@ RAD Studio Delphi 10+ versions accompany Android 10+ Java libraries (Androidapi.
 RAD Studio Delphi 11.0 Alexandria has Android 30 API support (Google Play Store 2021 requirement).
 
 
-## Uygulamada Kapsamlı Depolama 
+## Scoped Storage in Practice 
 
 **Differences to [File Storage and Sharing in Android](https://www.delphican.com/showthread.php?tid=5296) :**
 
